@@ -1,0 +1,1 @@
+# et-713-2025-1125-rails-mg-midterm
